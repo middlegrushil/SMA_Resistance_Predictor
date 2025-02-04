@@ -1,0 +1,1 @@
+# SMA_Resistance_Predictor
